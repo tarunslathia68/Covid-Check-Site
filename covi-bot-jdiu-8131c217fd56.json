@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "covi-bot-jdiu",
+    "private_key_id": "8131c217fd56a955549efed95e82bee381f859a7",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDD1Foed+rQ21s3\nYD01l0ubw1RcHmkUVpA2voBcphjTkXqYHe345J8oHlh28DREa30aIAdcU0dcC8gt\nAY9ISr/Ur2bbRawvcoAvwnan7AW4GAoFBIjGwm+gdRaOU3CBPliOgwsw0/Nm5JbJ\nDP9xB5xz7KwhCXLogZKzzYkN6Bldht9jR6Dq3/5s/h6Y5AHL3krQ7JSrpOjCQwpw\nigU+onTTmp7AIbnL7eFozDWcwpWfruyCIrTG+abQzjxKLYG4/xNK4obx+u5fME/+\na6B1s+oS0BUw7zgD/BL3Q9+Eh3aoGXy23TP84fUi+4iTQBOVB1EcWTte6IaWAMNM\nL/o0m0VPAgMBAAECggEACJVPp+M4qxPaQSiaNjWd7kNW+LyqfWY35vZdmPH8x5Uq\nSu2Q5yZaJX+DAB+SIueVMaZyvCS4TXwEt5hIZ/JCyzcu6nB41hGONcmvurd5HrML\nCWJD/nY6P02ygeV9WmTZq9FplafMlNdzFnfX4GPlgx0+BCquWyuGuxPIrI/eQL+b\ne+nJyVvUrCCfyjpQtnZMT/DgZ1FeRwQ6t6pcqsoDC7kKVy3kTo+ug6vcQ2RY9G6V\nRn4xX6Hdw9JEx9nkwwT8CFqZ4YrpcSBBzucqkJMK5s5wrqc7Uj34L96MRYbfAULI\n4TUtM9lHYQCuNUzvtdMK1Ua0AOUopJ1vRlywnDeH8QKBgQDlLBUHfdV38n95+OX7\noJ07VNBBpV5gLJ0jWSgbYLAYiy2SHRcVxvzODAwQZdsA7GthdzmYUsEL4yaMy7yI\nV3m4zllENl7X2pCPMllCisbQd9Vc1PsvHTrtpRqd3PxSf2MS7ze9MPj9YdY5XoH7\nqZQ0kwTXQrrdR0tB8I74x7VLXwKBgQDawQslPmA2XMp+DHzZOi5SFNjfo9ya0fAT\nNzELrMfR5tSxAD3MIL+bVFb9CwCunAtg4bHpoEUixsuXmUu2JZwTHW6jGrhin75f\nPW+XHKVngrVAWXctte9RF/0hB48D4q6lq3qmQE2+SnnSZM94l74XvXZSO4jUJnbG\nIgPurHk8EQKBgFtZDezViKBuJcftoWaCaAn9TaHNE+hMADrVz/nRuX+fAoQqWkhQ\n7/YFsU1b/EbK9iZ8ipWf7tkZKwWWNEk4bQlwHv7kmTt7IIIjtJakkIkKKx78uj7W\nbOXLGOfx7RXJNymV9ubPvX/qXqSxeihhOPUX4ScYrzmCsInRJHwfxrELAoGBAM1G\nl6nkZa691nsARuwlr6/wxi7e+rYByXKOuSSGh6BOJ0rNui/ij0s4ksSz3Xj9D6Rj\nRmvArP/cYtKo1KZhlptNZDQEcACEfMWsxhmclQ6UVnfDPJYVgzSq+StUh30S6+al\nCtwVvZ6TDsxDM3mrk4N9lBnIqjbCvXRiGSSQjtexAoGAdnOHGdNRCpzKwu+ocDOV\nSvncSCwFXzXTxHeQ6HAyDT6wWxya2WdjK6GidXlY+Rf/a49idSMWvki+ACmZdcc+\n8RFH7OVKwvs9qF8sW1/YbGcSKd8ALb0XWCAF9E4/Bo7clujlgM5X/gk/3emfQjn2\nHt9Iqou/E7VcI8pdFBcgnkE=\n-----END PRIVATE KEY-----\n",
+    "client_email": "kheman@covi-bot-jdiu.iam.gserviceaccount.com",
+    "client_id": "113573716811359862954",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kheman%40covi-bot-jdiu.iam.gserviceaccount.com"
+  }
+  
