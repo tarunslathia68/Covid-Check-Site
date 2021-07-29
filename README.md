@@ -1,1 +1,1 @@
-# Covid_Care : Patient management system for covid centers
+# Covid Check Site : Patient management system for covid centers
